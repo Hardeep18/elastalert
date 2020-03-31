@@ -1,6 +1,6 @@
 FROM python:3.6-alpine
 
-MAINTAINER hardeep.singh18@outlook.com
+MAINTAINER hardeep.singh
 
 ARG ELASTALERT_VERSION=0.2.1
 
